@@ -1,14 +1,5 @@
 # Evy - AI-Powered Support Workflow Engine
 
-**Evy** is a **full-lifecycle AI Support Workflow Engine**. Evy injects intelligent automation into every stage of the support ticket lifecycle, from the moment a ticket is received to the moment it is solved, escalated, or analyzed. Built for the hackathon to showcase the power of the **Oxlo.ai** platform, it utilizes the capabilities of advanced LLMs across multiple distinct workflows in a seamless, parallelized pipeline.
----
-
-### 🏆 Hackathon Evaluation Details
-- **Registered Oxlo.ai Email:** `afzalsatellite@gmail.com`
-- **Model Used:** `ministral-14b` (via Oxlo.ai)
-- **Primary Use Case:** Transforming reactive customer support into an automated, proactive workflow. Evy drastically reduces "Time-to-Resolution" (TTR) by pre-processing tickets before human agents see them. Instead of an agent reading a ticket, searching the knowledge base, writing a draft, scoring their tone, and summarizing an escalation—Evy performs all of these actions autonomously and in parallel the instant a ticket hits the queue. 
-
----
 
 This backend provides a robust set of REST APIs for **Lovable** (or any frontend framework) to consume and build a polished, modern dashboard.
 
