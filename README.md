@@ -4,8 +4,8 @@
 ---
 
 ### 🏆 Hackathon Evaluation Details
-- **Registered Oxlo.ai Email:** `afzalsatellite@gmail.com`
-- **Model Used:** `ministral-14b` (via Oxlo.ai)
+- **Registered Oxlo.ai Email:** `afzalsatellite@gmail.com`, `abdulforgcp@gmail.com`
+- **Model Used:** `ministral-14b` (powered by Oxlo.ai)
 - **Primary Use Case:** Transforming reactive customer support into an automated, proactive workflow. Evy drastically reduces "Time-to-Resolution" (TTR) by pre-processing tickets before human agents see them. Instead of an agent reading a ticket, searching the knowledge base, writing a draft, scoring their tone, and summarizing an escalation—Evy performs all of these actions autonomously and in parallel the instant a ticket hits the queue. 
 
 ---
